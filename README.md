@@ -6,9 +6,9 @@ Nice to meet u! I'm Eunki, an undergraduate student in KAIST School of Computing
   - Research on AR Emoji Interface
   - 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
 - 🌱 I’m currently learning 
-  - Computer networking
-  - Database system concepts
-  - Social computing
+  - Computer networking (C++)
+  - Database system concepts (SQL, Java)
+  - Social computing (Frontend)
   - Software engineering
 - 📫 How to reach me
   - Feel free to send an email to ppyapmail@gmail.com!

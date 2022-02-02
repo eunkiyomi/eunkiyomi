@@ -11,7 +11,7 @@ Nice to meet u! I'm Eunki, an undergraduate student in KAIST School of Computing
   - Social computing (Frontend)
   - Software engineering
 - 📫 How to reach me
-  - Feel free to send an email to ppyapmail@gmail.com!
+  - Feel free to send an email to ppyap@kaist.ac.kr!
 
 <!--
 **eunkiyomi/eunkiyomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,7 +21,7 @@ Nice to meet you! I'm Eunki Joung, an undergraduate student in KAIST School of C
     - and more ..
   - 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
 ### 📫 How to reach me
-  - Feel free to send an email to ppyap@kaist.ac.kr!
+  - Feel free to send an email to ppyap(at)kaist.ac.kr!
 <!--   - My homepage: http://www.eunkiyo.me/ (Developing..) -->
 ### 💬 Ask me about ... 
   - What music do you like? (Always welcome🤟)

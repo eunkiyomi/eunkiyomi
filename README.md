@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Nice to meet you! I'm Eunki Joung, an undergraduate student in KAIST School of Computing.
+Nice to meet you! I'm Eunki Joung, a master student of [Interactive Computing Lab](https://ic.kaist.ac.kr/) in KAIST School of Computing.
 
 ### 🔭 I’m interested in
-  - 🙋‍♀️ Human 
+  - 😊 Human 
   - 👨‍💻 Computer science
     - HCI
     - AR/VR
@@ -42,31 +42,6 @@ Nice to meet you! I'm Eunki Joung, an undergraduate student in KAIST School of C
 - [Satisfaction](https://github.com/eunkiyomi/satisfaction): A self-praise diary. A toy project for myself, using django. (2020)
 - [Hangaram Timetable Creator](https://github.com/eunkiyomi/Hangaram-Timetable-Creator): A highschool timetable viewer. A school club project, using html/css/js. Deployed for students of my highschool. (2018)
 - [Australia covid visualizer](https://github.com/eunkiyomi/australia-covid): Covid map using Australia government data. A toy project for me and my family, using nodejs. (2020)
-
-
-### 🌱 I took undergrad classes about 
-  - social computing (Web, HCI project)
-  - natural language processing (Python)
-  - human communication and the Internet
-  - basics of AI (Python)
-  - computer networks (C++)
-  - database (SQL, Java)
-  - software engineering (Agile, waterfall, etc..)
-  - algorithms (Python)
-  - data structure (Java)
-  - programming language(Scala)
-  - system programming (C)
-  - computer organization (C++)
-  - discrete mathematics
-  - calculus I/II
-  - analysis I
-  - linear algrebra
-  - probability and statistics
-  - psychology
-  - phylosophy of mind
-  - American pop music
-  - and more ..
-
 
 <!--
 **eunkiyomi/eunkiyomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

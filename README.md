@@ -11,12 +11,6 @@ Nice to meet you! I'm Eunki Joung, a master student of [Interactive Computing La
   - 👋 Communication 
   - 🤝 Social problems 
     - Inclusiveness
-  - Other things
-    - Books
-    - Architecture
-    - Comedy
-    - and more ..
-  - 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
 ### 📫 How to reach me
   - Feel free to send an email to ppyap(at)kaist.ac.kr!
 <!--   - My homepage: http://www.eunkiyo.me/ (Developing..) -->
